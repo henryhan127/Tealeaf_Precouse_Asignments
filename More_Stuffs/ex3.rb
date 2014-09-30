@@ -1,0 +1,1 @@
+#it helps you rescue the program from stopping when errors occur.

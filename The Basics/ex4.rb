@@ -1,0 +1,6 @@
+list = [ "1975", "2004", "2013", "2001", "1981"]
+puts list[0]
+puts list[1]
+puts list[2]
+puts list[3]
+puts list[4]
